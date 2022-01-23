@@ -1,3 +1,4 @@
 Hello this is sathish chunchu
 Iam learning the Linux,Git
 Learn the Linux commands and practice everyday
+Learn the Git commands and practice everyday
